@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Return: 0 (success)
+ * Return: 0 (succes)
  */
+
  int main(void)
 {       
         
@@ -15,5 +16,6 @@
                         c++;
                 }       
         putchar('\n');
-        return (0);   
+        return (0);
+}	
 
